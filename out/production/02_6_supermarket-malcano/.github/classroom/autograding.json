@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test",
+      "setup": "bash ./build.sh Supermarket.java",
+      "run": "bash ./run.sh Supermarket",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout-minutes": 5,
+      "points": 10
+    }
+  ]
+}
